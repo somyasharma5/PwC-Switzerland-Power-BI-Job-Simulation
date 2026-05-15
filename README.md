@@ -18,6 +18,7 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 
 Dashboard - ![Call Centre Trend](https://github.com/somyasharma5/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/Task%201-Call%20Centre%20Trends/Call%20centre%20Trends.png)
 
+
 ### Task 2: Customer Retention
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
@@ -27,9 +28,11 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 - Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk.
 - We have done customer analysis with Excel: it has always ended in a dead-end. We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management The Retentions Manager has provided some information, have a look through the resource section.
 
-Dashboard - ![Customer Retention-1]
+Dashboard - ![Customer Retention-1](https://github.com/somyasharma5/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/Task%202-Customer%20Retention/Customer%20Retention-part_1.png)
 
-Dashboard - ![Customer Retention_2]
+Dashboard - ![Customer Retention_2](https://github.com/somyasharma5/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/Task%202-Customer%20Retention/Customer%20Retention-part_2.png)
+
+
 ### Task 3: Diversity & Inclusion
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
@@ -48,6 +51,6 @@ Here is a hint: Calculating the following measures could help to define proper K
 - Average performance rating: men
 - Average Performance rating: women 
 
-Dashboard - ![Diversity & Inclusion-1]
+Dashboard - ![Diversity & Inclusion-1](https://github.com/somyasharma5/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/Task%203-Diversity%20%26%20Inclusion/Diversity_and_Inclusion-%20Part-1.png)
 
-Dashboard - ![Diversity & Inclusion-2]
+Dashboard - ![Diversity & Inclusion-2](https://github.com/somyasharma5/PwC-Switzerland-Power-BI-Job-Simulation/blob/main/Task%203-Diversity%20%26%20Inclusion/Diversity_and_Inclusion-%20Part-2.png)
